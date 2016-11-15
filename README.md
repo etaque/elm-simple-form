@@ -1,3 +1,5 @@
+RENAMED TO https://github.com/etaque/elm-form. This repo is here just for builds, everything moved over.
+
 # Elm SimpleForm
 
 HTML live forms builders and validation for Elm. [![Build Status](https://travis-ci.org/etaque/elm-simple-form.svg?branch=master)](https://travis-ci.org/etaque/elm-simple-form)
