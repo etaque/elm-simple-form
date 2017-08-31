@@ -1,4 +1,6 @@
-RENAMED TO https://github.com/etaque/elm-form. This repo is here just for builds, everything moved over.
+# RENAMED TO https://github.com/etaque/elm-form. This repo is here just for builds, everything moved over.
+
+---
 
 # Elm SimpleForm
 
